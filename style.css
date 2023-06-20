@@ -322,16 +322,16 @@ section .title::after{
     width: 80%;
 }
 .skills-content .right .js::before {
-    width: 78%;
+    width: 85%;
 }
 .skills-content .right .ccpp::before {
     width: 70%;
 }
 .skills-content .right .java::before {
-    width: 90%;
+    width: 40%;
 }
 .skills-content .right .python::before {
-    width: 82%;
+    width: 70%;
 }
 
 /* contact section styling */
